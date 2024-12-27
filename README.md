@@ -1,4 +1,7 @@
-## Hi there 👋
+## Tools for freedom and prosperity
+
+I am currently learning about the Bitcoin eco-system, including Lightning, Fedimint and eCash as well as related freedom tools built on Nostr.
+
 
 <!--
 **onebiglife/onebiglife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
